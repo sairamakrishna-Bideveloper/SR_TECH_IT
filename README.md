@@ -1,25 +1,8 @@
-# SR_TECH_IT — Clean Flat GitHub Pages Package
+# SR_TECH_IT Professional Website
 
-This version is designed to match the repository structure currently used by SR_TECH_IT.
+Professional IT-training website inspired by modern training-institute UX patterns, without copying another brand.
 
-ROOT FILES:
-- index.html
-- style.css
-- script.js
-- logo.png
-- logo.svg
-- power-bi.html
-- sql.html
-- python.html
-- cognos.html
-- data-engineering.html
-- aws.html
-- azure.html
-- ai-tools.html
-- learn/ (8 full-course learning pages)
-- .nojekyll
+Includes courses, full-course pages, projects, internship, learning support, FAQ, WhatsApp enquiry and responsive design.
 
-IMPORTANT: Upload the CONTENTS of this package to the repository ROOT, not the ZIP file and not the parent folder.
-
-
-IMPORTANT: Full-course pages are intentionally stored in the repository ROOT (for example `python-full-course.html`) so GitHub's simple file upload workflow does not require a nested `learn/` folder.
+No payment system, student login, student database or admin portal.
+Upload all files directly to the GitHub repository root.
