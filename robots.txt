@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace the placeholder below with your live GitHub Pages URL before publishing.
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
+Sitemap: https://sairamakrishna-bideveloper.github.io/SR_TECH_IT/sitemap.xml
