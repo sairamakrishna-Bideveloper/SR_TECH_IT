@@ -20,3 +20,6 @@ ROOT FILES:
 - .nojekyll
 
 IMPORTANT: Upload the CONTENTS of this package to the repository ROOT, not the ZIP file and not the parent folder.
+
+
+IMPORTANT: Full-course pages are intentionally stored in the repository ROOT (for example `python-full-course.html`) so GitHub's simple file upload workflow does not require a nested `learn/` folder.
